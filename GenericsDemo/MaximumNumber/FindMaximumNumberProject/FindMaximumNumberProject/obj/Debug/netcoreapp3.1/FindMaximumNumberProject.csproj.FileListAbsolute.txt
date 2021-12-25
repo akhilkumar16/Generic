@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.exe
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.deps.json
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\MaximumNumber\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.genruntimeconfig.cache
