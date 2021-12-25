@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.exe
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.deps.json
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.genruntimeconfig.cache
