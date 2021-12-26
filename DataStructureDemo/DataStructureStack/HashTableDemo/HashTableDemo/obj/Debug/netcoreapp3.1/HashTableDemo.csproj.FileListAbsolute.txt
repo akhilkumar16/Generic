@@ -1,0 +1,5 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\Generic\DataStructureDemo\DataStructureStack\HashTableDemo\HashTableDemo\obj\Debug\netcoreapp3.1\HashTableDemo.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Generic\DataStructureDemo\DataStructureStack\HashTableDemo\HashTableDemo\obj\Debug\netcoreapp3.1\HashTableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\Generic\DataStructureDemo\DataStructureStack\HashTableDemo\HashTableDemo\obj\Debug\netcoreapp3.1\HashTableDemo.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Generic\DataStructureDemo\DataStructureStack\HashTableDemo\HashTableDemo\obj\Debug\netcoreapp3.1\HashTableDemo.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\Generic\DataStructureDemo\DataStructureStack\HashTableDemo\HashTableDemo\obj\Debug\netcoreapp3.1\HashTableDemo.csproj.CoreCompileInputs.cache
