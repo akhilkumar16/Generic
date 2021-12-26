@@ -1,0 +1,16 @@
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\bin\Debug\netcoreapp3.1\JsonDataManagemnet.exe
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\bin\Debug\netcoreapp3.1\JsonDataManagemnet.deps.json
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\bin\Debug\netcoreapp3.1\JsonDataManagemnet.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\bin\Debug\netcoreapp3.1\JsonDataManagemnet.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\bin\Debug\netcoreapp3.1\JsonDataManagemnet.dll
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\bin\Debug\netcoreapp3.1\JsonDataManagemnet.pdb
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\obj\Debug\netcoreapp3.1\JsonDataManagemnet.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\obj\Debug\netcoreapp3.1\JsonDataManagemnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\obj\Debug\netcoreapp3.1\JsonDataManagemnet.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\obj\Debug\netcoreapp3.1\JsonDataManagemnet.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\obj\Debug\netcoreapp3.1\JsonDataManagemnet.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\obj\Debug\netcoreapp3.1\JsonDataManagemnet.csproj.CopyComplete
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\obj\Debug\netcoreapp3.1\JsonDataManagemnet.dll
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\obj\Debug\netcoreapp3.1\JsonDataManagemnet.pdb
+C:\Users\Kranthi\Desktop\Day11_12\JsonDataManagemnet\JsonDataManagemnet\obj\Debug\netcoreapp3.1\JsonDataManagemnet.genruntimeconfig.cache
